@@ -6,7 +6,7 @@ export const ALBUMS: Album[] = [
     artist: "Tremonti",
     albumName: "Dust",
     onSale: true,
-    currency: "USD",
+    currency: "GBP",
     price: 11.99,
     year: 2016,
     releaseDate: "April 29, 2016",
